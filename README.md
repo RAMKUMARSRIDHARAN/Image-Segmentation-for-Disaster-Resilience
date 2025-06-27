@@ -15,18 +15,18 @@ Future upgrades include support for higher-resolution imagery, real-time analysi
 
 Key Features:
 
-Image Segmentation
+->Image Segmentation:
     Detects and highlights affected regions in satellite or aerial imagery using pixel-wise classification.
 
-Deep Learning Models
+->Deep Learning Models
     Integrates state-of-the-art architectures like:
 
-U-Net
+-> U-Net
 
-DeepLabV3+
+-> DeepLabV3+
 
-Mask R-CNN
-for accurate and efficient segmentation.
+-> Mask R-CNN
+        for accurate and efficient segmentation.
 
 ->Change Detection
     Compares before-and-after disaster images to evaluate damage levels and estimate impact severity.
